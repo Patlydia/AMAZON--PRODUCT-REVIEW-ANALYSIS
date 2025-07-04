@@ -12,7 +12,8 @@ This repository contains my DSA Capstone project:An analysis of Amazon product d
 ## Files
 - Amazon_Analysis.xlsx – This file Contains three sheets:
   - Cleaned Data  
-  - Pivot Tables(tasks 1–14)  
+  - Pivot Tables(tasks 1–14)  [Amazon Product Review Analysis.xlsx](https://github.com/user-attachments/files/21068646/Amazon.Product.Review.Analysis.xlsx)
+
   - Dashboard (interactive visuals)
   ## Data Description
 The dataset includes 1,349 unique products with these columns:
